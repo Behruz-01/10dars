@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.item{
+    font-size: 40px;
+}
+
+.container{
+    padding: 0 90px;
+}
+.header{
+    
+    
+}
+
+.top-bar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.currently{
+    display: flex;
+    margin: auto;
+    margin-left: 200px;
+    margin-right: 100px;
+    
+}
+.box{
+    margin: 5px;
+}
+.box2{
+    margin-left: 60px;
+    display: flex
+}
+
+.text2{
+    display: flex;
+    margin: 5px;
+
+}
+
+.text2 li{
+    margin: 5px;
+}
